@@ -1,0 +1,151 @@
+body{
+        background-color: rgb(0, 0, 0);
+}
+nav{
+        display: flexbox;
+        width:100%;
+        height: 300px;
+        background-image: url(moon.gif);
+        border-radius: 0px 0px 20px 20px;
+}
+img#navLogo{
+        width: 30%;
+        height: 100%;
+        float: left;
+}
+a#nav-links{
+        color: white;
+        font-size: 24px;
+        float: right;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-left: 15px;
+        margin-right: 35px;
+}
+p{
+        color: rgb(119, 0, 255);
+}
+img{
+       width: 30%; 
+}
+
+body{
+        display: flexbox;
+        background-image:url(rain.gif);
+        background-repeat: no-repeat;
+        background-size: 1500px 3500px;
+
+}
+#SnoopyIMG{
+        border: 10px;
+        width: 100%;
+        height: 250px;
+        border-radius: 15%;
+
+}
+#Gaming{
+        border: 10px;
+        width: 100%;
+        height: 150px;
+        border-radius: 15%;
+}
+#gojoGIF{
+        border: 50px    purple;
+        width: 20%;
+        height: 250px;
+        border-radius: 15%;
+}
+#rps{
+        border: 50px;
+        width: 100%;
+        height: 250px;
+        border-radius: 15%;
+}
+#F2Cgif{
+        border: 50px;
+        width: 100%;
+        height: 250px;
+        border-radius: 15%;
+}
+#HGP{
+        border: 50px;
+        width: 100%;
+        height: 250px;
+        border-radius: 15%;
+}
+#CapGuy{
+        border: 50px;
+        width: 100%;
+        height: 250px;
+        border-radius: 15%;
+}
+#eil{
+        border: 50px;
+        width: 100%;
+        height: 250px;
+        border-radius: 15%;
+}
+#alex{
+        border: 50px;
+        width: 100%;
+        height: 250px;
+        border-radius: 15%;
+}
+#Naim{
+        border: 50px;
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+}
+#Bullseye{
+        border: 50px;
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+}
+#python{
+        border: 50px;
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+}
+#Coding{
+        border: 50px;
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+}
+div.gallery{
+        margin: 15px;
+        float: left;
+        width: 250px;
+        border: 10px;
+        background-color: gray;
+        border-radius: 15% 15% 0px 0px;
+}
+div.gallery-desc{
+        padding: 10px;
+        text-align: center;
+        background-color: black;
+}
+#fam{
+        border: 100px;
+        width: 100%;
+        height: 250%;
+        border-radius: 15%;
+}
+h1{
+        background-color: rgb(255, 255, 255);
+        width: 1420px;
+        height: 40px;
+        border: 10px ridge rgb(255, 255, 255);
+        border-radius: 15%;
+        text-align: center;
+}
+h2{
+        background-color: rgb(255, 255, 255);
+        width: 350px;
+        height: 350px;
+        border: 20px ridge rgb(0, 0, 0);
+        border-radius: 15%;
+        text-align: center;
+}
